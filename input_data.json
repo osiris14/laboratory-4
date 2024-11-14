@@ -1,0 +1,36 @@
+{
+	"list_of_all": {
+		"people_list": [
+			{
+				"name": "Ivan",
+				"age": 30,
+				"profession": "Teacher",
+				"city": "Saints Petersburg"
+			},
+			{
+				"name": "Anna",
+				"age": 25,
+				"profession": "Engineer",
+				"city": "Moscow"
+			},
+			{
+				"name": "Maxim",
+				"age": 27,
+				"profession": "Programmer",
+				"city": "Yekaterinburg"
+			},
+			{
+				"name": "Olga",
+				"age": 26,
+				"profession": "Designer",
+				"city": "Krasnodar"
+			},
+			{
+				"name": "Elena",
+				"age": 28,
+				"profession": "Doctor",
+				"city": "Novosibirsk"
+			}
+		]
+	}
+}
